@@ -328,3 +328,7 @@ extensions.unshift(extensionLoader);
 // Injected for extra extension voxelamming
 import voxelamming from './voxelamming/index.jsx';
 extensions.unshift(voxelamming);
+
+// Injected for extra extension voxelammingTurtle
+import voxelammingTurtle from './voxelammingTurtle/index.jsx';
+extensions.unshift(voxelammingTurtle);
