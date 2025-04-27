@@ -336,3 +336,7 @@ extensions.unshift(voxelammingTurtle);
 // Injected for extra extension cubicpy
 import cubicpy from './cubicpy/index.jsx';
 extensions.unshift(cubicpy);
+
+// Injected for extra extension cubicpyTurtle
+import cubicpyTurtle from './cubicpyTurtle/index.jsx';
+extensions.unshift(cubicpyTurtle);

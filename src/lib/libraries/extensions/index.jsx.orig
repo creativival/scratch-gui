@@ -332,3 +332,7 @@ extensions.unshift(voxelamming);
 // Injected for extra extension voxelammingTurtle
 import voxelammingTurtle from './voxelammingTurtle/index.jsx';
 extensions.unshift(voxelammingTurtle);
+
+// Injected for extra extension cubicpy
+import cubicpy from './cubicpy/index.jsx';
+extensions.unshift(cubicpy);
